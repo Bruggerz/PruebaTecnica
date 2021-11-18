@@ -4,7 +4,7 @@
 
 Para ejecutar la aplicación completa se debe acceder a la carpeta correspondiente de cada servicio.
 
-### Prerequisitos
+### Herramientas utilizadas
 - Python 3.9
 - Django 3.2.8
 - Django Rest Framework 3.12.4
