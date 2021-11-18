@@ -10,9 +10,15 @@ Para ejecutar la aplicación completa se debe acceder a la carpeta correspondien
 - Django Rest Framework 3.12.4
 
 La base de datos se encuentra incluida en formato SQLite junto con las tablas generadas e información previa para su visualización
-por lo que solo requiere ejecutar el comando
+por lo que solo requiere ejecutar el comando para instalar las dependencias
 
 ```
+pip install -r requirements.txt
+```
+
+Posteriormenteejecutar el servidor con
+```
+
 python manage.py runserver
 ```
 ### Documentación utilizada
