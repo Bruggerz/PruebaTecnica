@@ -17,3 +17,5 @@ python manage.py runserver
 ```
 ### Documentación utilizada
 - Django Rest Framework
+
+Solo queda inicializar el servicio en React para consultar y manejar la API (Se encuentra en otro repositorio)
